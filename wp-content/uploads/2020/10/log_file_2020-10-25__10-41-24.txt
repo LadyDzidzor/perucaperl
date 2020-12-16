@@ -1,0 +1,183 @@
+
+---Downloaded files---
+The import files for: Simple were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wp.localhost
+Data file = /Users/didi/Documents/projects/wp.localhost/wp-content/themes/front/assets/dummy-data/simple/dummy-data.xml
+Widget file = /Users/didi/Documents/projects/wp.localhost/wp-content/themes/front/assets/dummy-data/simple/widgets.wie
+Customizer file = not defined!
+Redux files:
+front_options -> /Users/didi/Documents/projects/wp.localhost/wp-content/themes/front/assets/dummy-data/simple/redux-options.json 
+
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+cs-9 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - About - Widget already exists
+
+cs-10 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Contacts - Widget already exists
+
+cs-13 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Subscribe - Widget already exists
+Navigation Menu - Stay in touch - Widget already exists
+
+cs-14 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Help and advice - Widget already exists
+
+cs-16 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Stay up to date - Widget already exists
+
+cs-15 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - About us - Widget already exists
+
+cs-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - About - Widget already exists
+
+cs-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Account - Widget already exists
+
+cs-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Resources - Widget already exists
+
+cs-4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - We are driven to deliver results for all your businesses. - Widget already exists
+
+cs-23 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Community - Widget already exists
+
+cs-24 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - About - Widget already exists
+
+cs-25 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Resources - Widget already exists
+
+cs-11 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - About - Widget already exists
+
+cs-26 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Account - Widget already exists
+
+cs-27 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Company - Widget already exists
+
+cs-28 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Our Location - Widget already exists
+
+cs-5 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Account - Widget already exists
+
+cs-6 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Company - Widget already exists
+
+cs-7 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Resources - Widget already exists
+
+cs-8 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Contact - Widget already exists
+
+cs-22 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Legal - Widget already exists
+
+cs-21 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - No Title - Widget already exists
+
+cs-19 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - GET OUR MOBILE APP - Widget already exists
+
+cs-17 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - No Title - Widget already exists
+
+cs-18 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - No Title - Widget already exists
+
+cs-20 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - No Title - Widget already exists
+
+cs-12 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Company - Widget already exists
+
+Blog Sidebar : 
+
+Front Posts Widget - News - Imported
+Tag Cloud - Tags - Imported
+Search - Search - Imported
+
+Footer Column 1 : 
+
+Navigation Menu - About - Imported
+
+Footer Column 2 : 
+
+Navigation Menu - Account - Imported
+
+Footer Column 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer Column 4 : 
+
+Custom HTML - We are driven to deliver results for all your businesses. - Imported
+
+Footer Column 5 : 
+
+Custom HTML - Contact - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: front_options finished successfully!
+
+---pt-ocdi/after_import---
+

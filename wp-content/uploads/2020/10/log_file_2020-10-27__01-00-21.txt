@@ -1,0 +1,177 @@
+
+---Downloaded files---
+The import files for: Main were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wp.localhost
+Data file = /Users/didi/Documents/projects/wp.localhost/wp-content/themes/front/assets/dummy-data/main/dummy-data.xml
+Widget file = /Users/didi/Documents/projects/wp.localhost/wp-content/themes/front/assets/dummy-data/main/widgets.wie
+Customizer file = not defined!
+Redux files:
+front_options -> /Users/didi/Documents/projects/wp.localhost/wp-content/themes/front/assets/dummy-data/main/redux-options.json 
+
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Footer Dark v1 Column 2 Widget : 
+
+Navigation Menu - About - Imported
+
+Footer Dark v1 Column 3 Widget : 
+
+Custom HTML - Contacts - Imported
+
+Footer Dark v2 Column 4 Widget : 
+
+Custom HTML - Subscribe - Imported
+Navigation Menu - Stay in touch - Imported
+
+Footer Dark v4 Column 1 Widget : 
+
+Navigation Menu - Help and advice - Imported
+
+Footer Dark v4 Column 3 Widget : 
+
+Custom HTML - Stay up to date - Imported
+
+Footer Dark v4 Column v2 Widget : 
+
+Navigation Menu - About us - Imported
+
+Footer Default v1 Column 1 Widget : 
+
+Navigation Menu - About - Imported
+
+Footer Default v1 Column 2 Widget : 
+
+Navigation Menu - Account - Imported
+
+Footer Default v1 Column 3 Widget : 
+
+Navigation Menu - Resources - Imported
+
+Footer Default v1 Column 4 Widget : 
+
+Custom HTML - We are driven to deliver results for all your businesses. - Imported
+
+Footer Default v10 Column 3 Widget : 
+
+Navigation Menu - Community - Imported
+
+Footer Default v11 Column 1 Widget : 
+
+Navigation Menu - About - Imported
+
+Footer Default v11 Column 2 Widget : 
+
+Navigation Menu - Resources - Imported
+
+Footer Default v13 Column 1 Widget : 
+
+Navigation Menu - About - Imported
+
+Footer Default v15 Column 1 Widget : 
+
+Navigation Menu - Account - Imported
+
+Footer Default v15 Column 2 Widget : 
+
+Navigation Menu - Company - Imported
+
+Footer Default v15 Column 3 Widget : 
+
+Navigation Menu - Our Location - Imported
+
+Footer Default v3 Column 1 Widget : 
+
+Navigation Menu - Account - Imported
+
+Footer Default v3 Column 2 Widget : 
+
+Navigation Menu - Company - Imported
+
+Footer Default v3 Column 3 Widget : 
+
+Navigation Menu - Resources - Imported
+
+Footer Default v3 Column 4 Widget : 
+
+Custom HTML - Contact - Imported
+
+Footer Default v8 Column 2 Widget : 
+
+Navigation Menu - Legal - Imported
+
+Footer Default v8 Column 3 Widget : 
+
+Custom HTML - No Title - Imported
+
+Footer Default v9 Column 1 Widget : 
+
+Custom HTML - GET OUR MOBILE APP - Imported
+
+Footer Default v9 Column 2 Widget : 
+
+Navigation Menu - No Title - Imported
+
+Footer Default v9 Column 3 Widget : 
+
+Navigation Menu - No Title - Imported
+
+Footer Default v9 Column 4 Widget : 
+
+Navigation Menu - No Title - Imported
+
+Footer Primary Column 2 Widget : 
+
+Navigation Menu - Company - Imported
+
+Blog Sidebar : 
+
+Tag Cloud - Tags - Imported
+
+Shop Sidebar : 
+
+Front Filter Products by Price - Price - Imported
+Front Filter Products by Attribute - Gender - Imported
+Front Filter Products by Attribute - Brand - Imported
+Front Filter Products by Attribute - Size - Imported
+Front Filter Products by Attribute - Category - Imported
+Filter Products by Rating - Rating - Imported
+
+Product Category Sidebar : 
+
+Product Categories - No Title - Imported
+
+Footer Column 1 : 
+
+Navigation Menu - About - Imported
+
+Footer Column 2 : 
+
+Navigation Menu - Account - Imported
+
+Footer Column 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer Column 4 : 
+
+Custom HTML - We are driven to deliver results for all your businesses. - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: front_options finished successfully!
+
+---pt-ocdi/after_import---
+
