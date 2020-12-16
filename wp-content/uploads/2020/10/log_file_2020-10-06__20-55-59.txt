@@ -1,0 +1,58 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://192.168.64.2
+Data file = /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/10/demo-content-import-file_2020-10-06__20-55-59.xml
+Widget file = /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/10/demo-widgets-import-file_2020-10-06__20-55-59.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Widget already exists
+QK Popular Posts - Popular Posts - Imported
+Tag Cloud - Tags - Imported
+Custom HTML - No Title - Imported
+
+Footer 1 : 
+
+Custom HTML - Contact With Us - Imported
+
+Footer 2 : 
+
+Custom HTML - Quick Links - Imported
+
+Footer 3 : 
+
+Recent Posts - Latest News - Imported
+
+Footer 4 : 
+
+Custom HTML - Follow Us On Social - Imported
+
+

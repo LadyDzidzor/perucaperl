@@ -1,0 +1,104 @@
+a:4:{s:8:"template";s:5:"statum";s:4:"mods";a:7:{i:0;b:0;s:18:"nav_menu_locations";a:3:{s:7:"onepage";i:7;s:7:"primary";i:6;s:4:"drop";i:0;}s:18:"custom_css_post_id";i:95;s:11:"custom_logo";i:92;s:7:"map_api";s:39:"AIzaSyCiqrIen8rWQrvJsu-7f4rOta0fmI5r2SI";s:9:"copyright";s:68:"Copyright 2018. &quot;Statum&quot; by Nunforest. All rights reserved.";s:12:"related_post";b:1;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:3062:".navbar-brand img{
+	max-width: 90px;
+}
+.page-id-330 .page-current .inner-page-current{
+	border-bottom: none;
+}
+.page-id-330 .page-current{
+	margin-bottom: 0;
+}
+section#reservation-section2 .reservation-form input[type="text"], section#reservation-section2 .reservation-form input[type="email"], section#reservation-section2 .reservation-form input[type="date"],section.reservation-page-section .reservation-box .reservation-form input[type="text"], section.reservation-page-section .reservation-box .reservation-form input[type="email"], section.reservation-page-section .reservation-box .reservation-form input[type="date"]{
+	line-height: 1.2;
+	background: #fff;
+}
+section#reservation-section2 .reservation-form input[type="date"],section.reservation-page-section .reservation-box .reservation-form input[type="date"]{
+	padding: 10px 20px;
+}
+section#reservation-section:after {
+    content: '';
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    right: 0;
+    top: 0;
+    background: url(http://demo.qkthemes.net/statum/wp-content/uploads/2018/11/ban4-1.jpg) center center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.error-section{
+	padding: 120px 0px;
+	text-align: center;
+	background: url(http://demo.qkthemes.net/statum/wp-content/uploads/2018/11/404.jpg) center center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+}
+.button-two {
+    color: #222222;
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-style: normal;
+    border: 1px solid #f4b350;
+    text-decoration: none !important;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    padding: 14px 30px 13px;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    margin: 0;
+}
+.button-two:hover {
+    color: #222222;
+    background: #f4b350;
+}
+.error-section .error-box{
+	background: #fff;
+	padding: 120px 140px;
+	box-shadow: 0 20px 30px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 20px 30px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 20px 30px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 20px 30px rgba(0, 0, 0, 0.1);
+	max-width: 970px;
+	    margin: 0 auto;
+}
+.error-section .error-box h1{
+	font-family: 'Rubik', sans-serif;
+	font-weight: 300;
+	font-size: 150px;
+}
+.error-section .error-box h3{
+	color: #666;
+	font-size: 20px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	margin-bottom: 40px;
+}
+@media(max-width: 991px){
+	section#reservation-section:after{
+		display: none;
+	}
+	section#reservation-section .reservation-box .reservation-form{
+		padding-left: 0px;
+	}
+}
+@media(max-width: 767px){
+	.error-section .error-box{
+		padding: 60px 15px;
+	}
+	.error-section .error-box h1{
+		font-size: 60px;
+	}
+	.error-section .error-box h3{
+		font-size: 16px;
+	}
+}	";}

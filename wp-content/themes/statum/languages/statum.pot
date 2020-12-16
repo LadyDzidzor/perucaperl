@@ -1,0 +1,1273 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Statum\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-27 15:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1.1"
+
+#: framework/meta-box.php:28 framework/meta-box.php:63
+msgid " Page Banner Image"
+msgstr ""
+
+#: comments.php:46 content.php:13 template-parts/single.php:51
+#: framework/elementor/widgets/blog-col.php:227
+#: framework/elementor/widgets/blog-carousel.php:224
+msgid "% Comments"
+msgstr ""
+
+#: functions.php:539
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: framework/customize.php:146
+msgid "&copy; Copyright By Nunforest 2019"
+msgstr ""
+
+#: comments.php:59
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:46 content.php:13 template-parts/single.php:51
+#: framework/elementor/widgets/blog-col.php:227
+#: framework/elementor/widgets/blog-carousel.php:224
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:46 content.php:13 template-parts/single.php:51
+#: framework/elementor/widgets/blog-col.php:227
+#: framework/elementor/widgets/blog-carousel.php:224
+msgid "1 Comment"
+msgstr ""
+
+#: framework/elementor/widgets/blog-col.php:153
+msgid "2 Column"
+msgstr ""
+
+#: framework/elementor/widgets/blog-col.php:152
+msgid "3 Column"
+msgstr ""
+
+#: framework/elementor/widgets/blog-col.php:151
+msgid "4 Column"
+msgstr ""
+
+#: template-parts/single.php:18 template-parts/archive.php:16
+msgid "404 Error"
+msgstr ""
+
+#: framework/elementor/widgets/about.php:77
+msgid "About Post"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:197
+msgid "Add custom class for section"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:187
+msgid "Add thumbnail size"
+msgstr ""
+
+#: functions.php:437
+msgid "Add widgets here to appear in your blog sidebar."
+msgstr ""
+
+#: functions.php:447
+msgid "Add widgets here to appear in your Footer 1."
+msgstr ""
+
+#: functions.php:457
+msgid "Add widgets here to appear in your Footer 2."
+msgstr ""
+
+#: functions.php:467
+msgid "Add widgets here to appear in your Footer 3."
+msgstr ""
+
+#: functions.php:477
+msgid "Add widgets here to appear in your Footer 4."
+msgstr ""
+
+#: framework/elementor/widgets/statistic.php:86
+#: framework/elementor/widgets/title.php:86
+msgid "Add your custom block title"
+msgstr ""
+
+#: framework/elementor/widgets/gmap.php:132
+msgid "Add your google map Height (px)"
+msgstr ""
+
+#: framework/elementor/widgets/gmap.php:120
+msgid "Add your google map Zoom"
+msgstr ""
+
+#: framework/elementor/widgets/gmap.php:107
+msgid "Add your latitude"
+msgstr ""
+
+#: framework/elementor/widgets/statistic.php:96
+msgid "Add your number counter here"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial.php:100
+#: framework/elementor/widgets/blog-carousel.php:149
+msgid "Add your number of items"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:86
+#: framework/elementor/widgets/blog-col.php:86
+#: framework/elementor/widgets/blog-carousel.php:86
+#: framework/elementor/widgets/blog-mas.php:86
+msgid "Add your number of posts"
+msgstr ""
+
+#: framework/elementor/widgets/statistic.php:114
+msgid "After Number:"
+msgstr ""
+
+#: framework/import.php:10
+msgid ""
+"After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: functions.php:125
+msgid "ago"
+msgstr ""
+
+#: archive-portfolio.php:20 framework/elementor/widgets/portfolio.php:271
+msgid "All"
+msgstr ""
+
+#: functions.php:666
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:110
+#: framework/elementor/widgets/blog-col.php:110
+#: framework/elementor/widgets/blog-carousel.php:110
+#: framework/elementor/widgets/blog-mas.php:110
+msgid "ASC"
+msgstr ""
+
+#: framework/meta-box.php:139 framework/elementor/widgets/team-carousel.php:101
+msgid "Avatar"
+msgstr ""
+
+#: framework/elementor/widgets/member.php:92
+msgid "Avatar:"
+msgstr ""
+
+#: framework/meta-box.php:37 framework/meta-box.php:72
+msgid "Banner SubTitle"
+msgstr ""
+
+#: functions.php:663
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:662
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/elementor/widgets/gmap.php:77
+msgid "Block Gmap"
+msgstr ""
+
+#: framework/elementor/widgets/title.php:77
+msgid "Block Title"
+msgstr ""
+
+#: framework/elementor/widgets/blog-carousel.php:37
+msgid "Blog Carousel"
+msgstr ""
+
+#: framework/elementor/widgets/blog-carousel.php:77
+msgid "Blog Carousel Style"
+msgstr ""
+
+#: framework/elementor/widgets/blog-col.php:37
+msgid "Blog Col"
+msgstr ""
+
+#: framework/elementor/widgets/blog-col.php:77
+msgid "Blog Col Style"
+msgstr ""
+
+#: framework/customize.php:106
+msgid "Blog Heading Title"
+msgstr ""
+
+#: framework/elementor/widgets/blog-mas.php:37
+#: framework/elementor/widgets/blog-mas.php:77
+msgid "Blog Masonry"
+msgstr ""
+
+#: framework/customize.php:54
+msgid "BLog Settings"
+msgstr ""
+
+#: functions.php:435
+msgid "Blog sidebar"
+msgstr ""
+
+#: framework/customize.php:116
+msgid "Blog Sub Title"
+msgstr ""
+
+#: framework/customize.php:154
+msgid "Body Typography"
+msgstr ""
+
+#: framework/elementor/widgets/video2.php:93
+msgid "Button Text:"
+msgstr ""
+
+#: framework/elementor/widgets/blog-mas.php:209
+msgid "by"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:154
+#: framework/elementor/widgets/blog-col.php:126
+#: framework/elementor/widgets/blog-carousel.php:126
+#: framework/elementor/widgets/blog-mas.php:125
+msgid "Categories"
+msgstr ""
+
+#: single-portfolio.php:34
+msgid "Category"
+msgstr ""
+
+#: framework/elementor/widgets/gmap.php:84
+msgid "Choose Map Marker Image"
+msgstr ""
+
+#: framework/customize.php:93
+msgid "Chose Main Color 1"
+msgstr ""
+
+#: framework/customize.php:94
+msgid "Chose your Main Color Style."
+msgstr ""
+
+#: single-portfolio.php:31
+msgid "Client"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial.php:146
+#: framework/elementor/widgets/testimonial2.php:121
+msgid "Client Job"
+msgstr ""
+
+#: framework/elementor/widgets/gallery.php:109
+#: framework/elementor/widgets/testimonial.php:140
+#: framework/elementor/widgets/team-carousel.php:109
+#: framework/elementor/widgets/testimonial2.php:115
+#: framework/elementor/widgets/gallery-carousel.php:109
+msgid "Client Name"
+msgstr ""
+
+#: functions.php:620
+msgid "CMB2"
+msgstr ""
+
+#: framework/elementor/widgets/blog-col.php:147
+msgid "Column:"
+msgstr ""
+
+#: content.php:13 template-parts/single.php:51
+#: framework/elementor/widgets/blog-col.php:227
+#: framework/elementor/widgets/blog-carousel.php:224
+msgid "Comment off"
+msgstr ""
+
+#: comments.php:36
+msgid "Comments"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/customize.php:40
+msgid "Config Your Theme Options Here."
+msgstr ""
+
+#: functions.php:624
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/customize.php:143
+msgid "Copyright"
+msgstr ""
+
+#: framework/meta-box.php:99 framework/elementor/widgets/title.php:112
+msgid "Custom Class"
+msgstr ""
+
+#: framework/meta-box.php:101
+msgid "Custom class for metro layout. Example: \"snd-size\""
+msgstr ""
+
+#: framework/elementor/widgets/images-carousel.php:119
+msgid "Custom Link"
+msgstr ""
+
+#: framework/elementor/widgets/image-block.php:108
+#: framework/elementor/widgets/service2.php:110
+#: framework/elementor/widgets/service.php:102
+msgid "Custom Link:"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:195
+msgid "Custom section class:"
+msgstr ""
+
+#: framework/elementor/widgets/images-carousel.php:125
+msgid "Data Merge (2 or 3)"
+msgstr ""
+
+#: framework/import.php:5 framework/elementor/widgets/portfolio.php:109
+#: framework/elementor/widgets/blog-col.php:109
+#: framework/elementor/widgets/feature.php:127
+#: framework/elementor/widgets/testimonial.php:89
+#: framework/elementor/widgets/blog-carousel.php:109
+#: framework/elementor/widgets/blog-mas.php:109
+msgid "Default"
+msgstr ""
+
+#: framework/import.php:6
+msgid "Demo Data"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:111
+#: framework/elementor/widgets/blog-col.php:111
+#: framework/elementor/widgets/blog-carousel.php:111
+#: framework/elementor/widgets/blog-mas.php:111
+msgid "DESC"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial.php:132
+#: framework/elementor/widgets/team-carousel.php:119
+#: framework/elementor/widgets/testimonial2.php:107
+#: framework/elementor/widgets/title.php:103
+msgid "Description"
+msgstr ""
+
+#: framework/elementor/widgets/image-block.php:116
+#: framework/elementor/widgets/service2.php:119
+#: framework/elementor/widgets/feature.php:113
+#: framework/elementor/widgets/about.php:108
+#: framework/elementor/widgets/service.php:111
+msgid "Description:"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:149
+#: framework/elementor/widgets/blog-col.php:121
+#: framework/elementor/widgets/blog-carousel.php:121
+#: framework/elementor/widgets/blog-mas.php:120
+msgid "Display the posts from:"
+msgstr ""
+
+#: framework/meta-box.php:203
+msgid "Dribbble"
+msgstr ""
+
+#: framework/elementor/widgets/image-block.php:84
+msgid "Drop Cap:"
+msgstr ""
+
+#: functions.php:616
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: comments.php:28
+msgid "Email"
+msgstr ""
+
+#: framework/meta-box.php:148
+msgid "Facebook"
+msgstr ""
+
+#: framework/elementor/widgets/feature.php:77
+msgid "Feature Post"
+msgstr ""
+
+#: framework/meta-box.php:140
+msgid "field description (optional)"
+msgstr ""
+
+#: framework/elementor/widgets/gallery.php:119
+msgid "Filter Class"
+msgstr ""
+
+#: functions.php:445
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:455
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:465
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:475
+msgid "Footer 4"
+msgstr ""
+
+#: framework/customize.php:56
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/elementor/widgets/gallery.php:77
+msgid "Gallery"
+msgstr ""
+
+#: framework/elementor/widgets/gallery.php:88
+#: framework/elementor/widgets/gallery-carousel.php:88
+msgid "Gallery #1"
+msgstr ""
+
+#: framework/elementor/widgets/gallery.php:92
+#: framework/elementor/widgets/gallery-carousel.php:92
+msgid "Gallery #2"
+msgstr ""
+
+#: framework/elementor/widgets/gallery-carousel.php:37
+#: framework/elementor/widgets/gallery-carousel.php:77
+msgid "Gallery Carousel"
+msgstr ""
+
+#: framework/elementor/widgets/gallery.php:84
+#: framework/elementor/widgets/gallery-carousel.php:84
+msgid "Gallery List"
+msgstr ""
+
+#: framework/meta-box.php:158
+msgid "Google"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: functions.php:420
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/customize.php:196
+msgid "Google Map API"
+msgstr ""
+
+#: framework/customize.php:53
+msgid "Header Settings"
+msgstr ""
+
+#: framework/meta-box.php:47
+msgid "Hide Default Footer Widgets Section on this Page"
+msgstr ""
+
+#: framework/meta-box.php:46
+msgid "Hide Footer Section"
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.qkthemes.net/statum/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/nunforest/portfolio"
+msgstr ""
+
+#: framework/elementor/widgets/service2.php:84
+#: framework/elementor/widgets/feature.php:84
+#: framework/elementor/widgets/statistic.php:104
+#: framework/elementor/widgets/service.php:84
+msgid "Icon Class Name"
+msgstr ""
+
+#: framework/elementor/widgets/feature.php:128
+msgid "Icon Left"
+msgstr ""
+
+#: framework/elementor/widgets/feature.php:103
+msgid "Icon Link:"
+msgstr ""
+
+#: framework/elementor/widgets/gallery.php:101
+#: framework/elementor/widgets/images-carousel.php:101
+#: framework/elementor/widgets/gallery-carousel.php:101
+msgid "Image"
+msgstr ""
+
+#: framework/elementor/widgets/image-block.php:77
+msgid "Image Block"
+msgstr ""
+
+#: framework/elementor/widgets/image-block.php:100
+#: framework/elementor/widgets/about.php:92
+#: framework/elementor/widgets/video.php:83
+#: framework/elementor/widgets/video2.php:84
+msgid "Image:"
+msgstr ""
+
+#: framework/elementor/widgets/images-carousel.php:37
+#: framework/elementor/widgets/images-carousel.php:77
+msgid "Images Carousel"
+msgstr ""
+
+#: framework/elementor/widgets/images-carousel.php:84
+msgid "Images List"
+msgstr ""
+
+#: framework/customize.php:107 framework/customize.php:117
+msgid "insert your blog default title"
+msgstr ""
+
+#: framework/customize.php:144
+msgid "insert your Copyright text"
+msgstr ""
+
+#: framework/meta-box.php:194
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:651
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:650
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:652
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/elementor/widgets/team-carousel.php:113
+msgid "Job"
+msgstr ""
+
+#: functions.php:612
+msgid "Kirki"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:153
+msgid "Latest Portfolio"
+msgstr ""
+
+#: framework/elementor/widgets/blog-col.php:125
+#: framework/elementor/widgets/blog-carousel.php:125
+#: framework/elementor/widgets/blog-mas.php:124
+msgid "Latest Posts"
+msgstr ""
+
+#: framework/elementor/widgets/gmap.php:105
+msgid "Latitude:"
+msgstr ""
+
+#: single-portfolio.php:46
+msgid "Launch Project"
+msgstr ""
+
+#: framework/elementor/widgets/service2.php:86
+#: framework/elementor/widgets/feature.php:86
+#: framework/elementor/widgets/statistic.php:106
+#: framework/elementor/widgets/service.php:86
+msgid ""
+"Line Awesome Statistic class name Example \"la la-futbol-o\". You can find "
+"more icon class here:"
+msgstr ""
+
+#: framework/meta-box.php:185
+msgid "Linkedin"
+msgstr ""
+
+#: template-parts/single.php:9 template-parts/archive.php:7
+msgid "Our Blog"
+msgstr ""
+
+#: taxonomy-portfolio_tag.php:80 archive-portfolio.php:82
+#: framework/elementor/widgets/portfolio.php:335
+msgid "Load More Projects"
+msgstr ""
+
+#: footer.php:7
+msgid "loading..."
+msgstr ""
+
+#: framework/customize.php:178
+msgid "Logo Dimension Control"
+msgstr ""
+
+#: framework/elementor/widgets/gmap.php:94
+msgid "Longitude"
+msgstr ""
+
+#: framework/customize.php:52
+msgid "Main Body Style"
+msgstr ""
+
+#: framework/elementor/widgets/gmap.php:130
+msgid "Map Height"
+msgstr ""
+
+#: framework/elementor/widgets/gmap.php:118
+msgid "Map Zoom"
+msgstr ""
+
+#: framework/customize.php:186
+msgid "Max Width"
+msgstr ""
+
+#: comments.php:23 framework/elementor/widgets/team-carousel.php:107
+msgid "Name"
+msgstr ""
+
+#: framework/elementor/widgets/member.php:84
+msgid "Name:"
+msgstr ""
+
+#: comments.php:60
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: framework/elementor/widgets/blog-mas.php:229
+msgid "next"
+msgstr ""
+
+#: template-parts/archive.php:58
+msgid "Next Page"
+msgstr ""
+
+#: template-parts/single.php:65
+msgid "Next page"
+msgstr ""
+
+#: template-parts/single.php:140
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/archive.php:47 framework/elementor/widgets/blog-col.php:244
+#: framework/elementor/widgets/blog-mas.php:218
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial.php:98
+#: framework/elementor/widgets/blog-carousel.php:147
+msgid "Number of item carousel:"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:84
+#: framework/elementor/widgets/blog-col.php:84
+#: framework/elementor/widgets/blog-carousel.php:84
+#: framework/elementor/widgets/blog-mas.php:84
+msgid "Number of Posts:"
+msgstr ""
+
+#: framework/elementor/widgets/statistic.php:94
+msgid "Number:"
+msgstr ""
+
+#. Author of the theme
+msgid "Nunforest Team"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:125
+#: framework/elementor/widgets/portfolio.php:139
+msgid "Off"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:95
+#: framework/elementor/widgets/blog-col.php:95
+#: framework/elementor/widgets/blog-carousel.php:95
+#: framework/elementor/widgets/blog-mas.php:95
+msgid "Offset Posts:"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:126
+#: framework/elementor/widgets/portfolio.php:140
+msgid "On"
+msgstr ""
+
+#: functions.php:628
+msgid "One Click Demo Import"
+msgstr ""
+
+#: framework/customize.php:109
+msgid "Our Blog"
+msgstr ""
+
+#: single-portfolio.php:73
+msgid "Our Other Projects"
+msgstr ""
+
+#: taxonomy-portfolio_tag.php:8 archive-portfolio.php:8
+msgid "Our Projects"
+msgstr ""
+
+#: template-parts/single.php:59
+msgid "Page"
+msgstr ""
+
+#: framework/meta-box.php:38 framework/meta-box.php:73
+msgid "Page Banner SubTittle (optional)"
+msgstr ""
+
+#. Name of the template
+msgid "Page builder"
+msgstr ""
+
+#: framework/meta-box.php:19
+msgid "Page Setting"
+msgstr ""
+
+#: functions.php:665
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:37
+#: framework/elementor/widgets/portfolio.php:77
+msgid "Portfolio"
+msgstr ""
+
+#: framework/meta-box.php:54
+msgid "Portfolio Options"
+msgstr ""
+
+#: framework/customize.php:55
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework/meta-box.php:119
+msgid "Post Banner"
+msgstr ""
+
+#: comments.php:37
+msgid "Post Comment"
+msgstr ""
+
+#: framework/meta-box.php:109
+msgid "Post Format Intro"
+msgstr ""
+
+#. Description of the theme
+msgid "Premium Multipurpose WordPress Theme."
+msgstr ""
+
+#: framework/elementor/widgets/blog-mas.php:229
+msgid "prev"
+msgstr ""
+
+#: template-parts/archive.php:58
+msgid "Prev Page"
+msgstr ""
+
+#: template-parts/single.php:66
+msgid "Previous page"
+msgstr ""
+
+#: template-parts/single.php:118
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr ""
+
+#: framework/meta-box.php:82
+msgid "Project Client"
+msgstr ""
+
+#: single-portfolio.php:27
+msgid "Project Overview"
+msgstr ""
+
+#: framework/meta-box.php:90
+msgid "Project Url"
+msgstr ""
+
+#: framework/elementor/widgets/about.php:37
+msgid "QK About Post"
+msgstr ""
+
+#: framework/elementor/widgets/feature.php:37
+msgid "QK Feature Post"
+msgstr ""
+
+#: framework/elementor/widgets/image-block.php:37
+msgid "QK Image Block"
+msgstr ""
+
+#: functions.php:603
+msgid "QK Register Post Type"
+msgstr ""
+
+#: framework/elementor/widgets/service.php:37
+msgid "QK Service Post"
+msgstr ""
+
+#: framework/elementor/widgets/service2.php:37
+msgid "QK Service Post 2"
+msgstr ""
+
+#: framework/elementor/widgets/statistic.php:37
+msgid "QK Statistic Box"
+msgstr ""
+
+#: framework/elementor/widgets/member.php:37
+msgid "QK Team Post"
+msgstr ""
+
+#: framework/elementor/widgets/title.php:37
+msgid "QK Title"
+msgstr ""
+
+#: framework/elementor/widgets/video.php:37
+msgid "QK Video"
+msgstr ""
+
+#: framework/elementor/widgets/video2.php:37
+msgid "QK Video2"
+msgstr ""
+
+#: content.php:18 framework/elementor/widgets/image-block.php:144
+#: framework/elementor/widgets/blog-col.php:232
+#: framework/elementor/widgets/blog-carousel.php:228
+msgid "Read More"
+msgstr ""
+
+#: functions.php:533
+msgid "Reply"
+msgstr ""
+
+#: functions.php:664
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:598
+msgid "Revolution Slider"
+msgstr ""
+
+#: searchform.php:9
+msgid "Search"
+msgstr ""
+
+#: template-parts/single.php:22 template-parts/archive.php:20
+msgid "Search results for"
+msgstr ""
+
+#: template-parts/archive.php:48 framework/elementor/widgets/blog-col.php:245
+#: framework/elementor/widgets/blog-mas.php:219
+msgid "Search with other keyword:"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:172
+#: framework/elementor/widgets/blog-col.php:134
+#: framework/elementor/widgets/blog-carousel.php:134
+#: framework/elementor/widgets/blog-mas.php:133
+msgid "Select categories:"
+msgstr ""
+
+#: framework/elementor/widgets/service.php:77
+msgid "Service Post"
+msgstr ""
+
+#: framework/elementor/widgets/service2.php:77
+msgid "Service2 Post"
+msgstr ""
+
+#: template-parts/single.php:88
+msgid "Share"
+msgstr ""
+
+#: single-portfolio.php:36
+msgid "Share Project"
+msgstr ""
+
+#: framework/elementor/widgets/team-carousel.php:125
+msgid "Social Icons"
+msgstr ""
+
+#: framework/elementor/widgets/member.php:108
+msgid "Socials link:"
+msgstr ""
+
+#: functions.php:653
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:659
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:656
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:661
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/elementor/widgets/portfolio.php:104
+msgid "Sort Portfolio:"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:106
+#: framework/elementor/widgets/blog-col.php:106
+#: framework/elementor/widgets/feature.php:124
+#: framework/elementor/widgets/testimonial.php:86
+#: framework/elementor/widgets/blog-carousel.php:106
+#: framework/elementor/widgets/blog-mas.php:106
+msgid "Sort posts by"
+msgstr ""
+
+#: framework/elementor/widgets/blog-col.php:104
+#: framework/elementor/widgets/blog-carousel.php:104
+#: framework/elementor/widgets/blog-mas.php:104
+msgid "Sort Posts:"
+msgstr ""
+
+#: framework/elementor/widgets/statistic.php:77
+msgid "Statistic Box"
+msgstr ""
+
+#. Name of the theme
+msgid "Statum"
+msgstr ""
+
+#: framework/elementor/elementor.php:188
+msgid "Statum Decor Global Widgets"
+msgstr ""
+
+#: framework/elementor/elementor.php:178
+msgid "Statum Decor Widget Blocks"
+msgstr ""
+
+#: framework/elementor/elementor.php:183
+msgid "Statum Decor Widget Grid"
+msgstr ""
+
+#: framework/elementor/widgets/gallery.php:37
+msgid "Statum Gallery"
+msgstr ""
+
+#: framework/elementor/widgets/gmap.php:37
+msgid "Statum Gmap"
+msgstr ""
+
+#: framework/customize.php:39
+msgid "Statum Options Panel"
+msgstr ""
+
+#: framework/elementor/widgets/team-carousel.php:37
+msgid "Statum Team Carousel"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial.php:37
+msgid "Statum Testimonials"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial2.php:37
+msgid "Statum Testimonials2"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial.php:90
+msgid "Style2"
+msgstr ""
+
+#: framework/elementor/widgets/feature.php:122
+#: framework/elementor/widgets/testimonial.php:84
+msgid "Style:"
+msgstr ""
+
+#: framework/elementor/widgets/title.php:94
+msgid "SubTitle"
+msgstr ""
+
+#: framework/elementor/widgets/gallery.php:113
+#: framework/elementor/widgets/testimonial.php:138
+#: framework/elementor/widgets/testimonial.php:144
+#: framework/elementor/widgets/images-carousel.php:113
+#: framework/elementor/widgets/images-carousel.php:115
+#: framework/elementor/widgets/testimonial2.php:113
+#: framework/elementor/widgets/testimonial2.php:119
+msgid "Subtitle"
+msgstr ""
+
+#: framework/elementor/widgets/service2.php:102
+#: framework/elementor/widgets/member.php:100
+#: framework/elementor/widgets/about.php:100
+msgid "Subtitle:"
+msgstr ""
+
+#: framework/elementor/widgets/team-carousel.php:77
+msgid "Team Carousel"
+msgstr ""
+
+#: framework/elementor/widgets/team-carousel.php:84
+msgid "Team List"
+msgstr ""
+
+#: framework/elementor/widgets/member.php:77
+msgid "Team Post"
+msgstr ""
+
+#: framework/elementor/widgets/team-carousel.php:88
+msgid "Team_Carousel #1"
+msgstr ""
+
+#: framework/elementor/widgets/team-carousel.php:92
+msgid "Team_Carousel #2"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial.php:128
+#: framework/elementor/widgets/testimonial2.php:103
+msgid "Testimonial Title"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial.php:113
+msgid "Testimonials #1"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial.php:117
+msgid "Testimonials #2"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial.php:109
+msgid "Testimonials List"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial.php:77
+msgid "Testimonials Logo"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial2.php:88
+msgid "Testimonials2 #1"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial2.php:92
+msgid "Testimonials2 #2"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial2.php:84
+msgid "Testimonials2 List"
+msgstr ""
+
+#: framework/elementor/widgets/testimonial2.php:77
+msgid "Testimonials2 Logo"
+msgstr ""
+
+#: functions.php:660
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:658
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:657
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:655
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:654
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/elementor/widgets/portfolio.php:185
+msgid "Thumbnail Size"
+msgstr ""
+
+#: framework/elementor/widgets/gallery.php:107
+#: framework/elementor/widgets/testimonial.php:126
+#: framework/elementor/widgets/images-carousel.php:107
+#: framework/elementor/widgets/images-carousel.php:109
+#: framework/elementor/widgets/testimonial2.php:101
+#: framework/elementor/widgets/gallery-carousel.php:107
+msgid "Title"
+msgstr ""
+
+#: framework/elementor/widgets/images-carousel.php:88
+msgid "Title #1"
+msgstr ""
+
+#: framework/elementor/widgets/images-carousel.php:92
+msgid "Title #2"
+msgstr ""
+
+#: framework/elementor/widgets/video.php:92
+msgid "Title1:"
+msgstr ""
+
+#: framework/elementor/widgets/video.php:101
+msgid "Title2:"
+msgstr ""
+
+#: framework/elementor/widgets/image-block.php:92
+#: framework/elementor/widgets/service2.php:94
+#: framework/elementor/widgets/feature.php:94
+#: framework/elementor/widgets/about.php:84
+#: framework/elementor/widgets/statistic.php:84
+#: framework/elementor/widgets/service.php:94
+#: framework/elementor/widgets/title.php:84
+msgid "Title:"
+msgstr ""
+
+#: framework/customize.php:127
+msgid "Turn On Post Navigation Section"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:120
+msgid "Turn On/Off Filter:"
+msgstr ""
+
+#: framework/elementor/widgets/portfolio.php:134
+msgid "Turn On/Off Load More Button:"
+msgstr ""
+
+#: framework/customize.php:128
+msgid "Turn On/Off Post Navigation Section Here"
+msgstr ""
+
+#: framework/meta-box.php:167
+msgid "Twitter"
+msgstr ""
+
+#: framework/customize.php:57
+msgid "Typography Settings"
+msgstr ""
+
+#: framework/meta-box.php:120
+msgid "Upload post images for header banner"
+msgstr ""
+
+#: framework/meta-box.php:130
+msgid "User Meta Profile"
+msgstr ""
+
+#: framework/elementor/widgets/video.php:77
+msgid "Video"
+msgstr ""
+
+#: framework/elementor/widgets/video.php:109
+#: framework/elementor/widgets/video2.php:103
+msgid "Video Url:"
+msgstr ""
+
+#: framework/elementor/widgets/video2.php:77
+msgid "Video2"
+msgstr ""
+
+#: framework/elementor/widgets/video2.php:96
+msgid "Watch Video"
+msgstr ""
+
+#: comments.php:32
+msgid "Website"
+msgstr ""
+
+#: comments.php:18
+msgid "Write a Comment"
+msgstr ""
+
+#: functions.php:542
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/meta-box.php:204
+msgid "Your Dribbble Link (optional)"
+msgstr ""
+
+#: framework/meta-box.php:149
+msgid "Your Facebook Link (optional)"
+msgstr ""
+
+#: framework/meta-box.php:159
+msgid "Your Google Link (optional)"
+msgstr ""
+
+#: framework/meta-box.php:195
+msgid "Your Instagram Link (optional)"
+msgstr ""
+
+#: framework/meta-box.php:186
+msgid "Your Linkedin Link (optional)"
+msgstr ""
+
+#: framework/meta-box.php:168
+msgid "Your Twitter Link (optional)"
+msgstr ""
+
+#: framework/meta-box.php:177
+msgid "Your Youtube Link (optional)"
+msgstr ""
+
+#: framework/meta-box.php:176
+msgid "Youtube"
+msgstr ""
